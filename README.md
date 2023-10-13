@@ -1,2 +1,3 @@
 # JISCE
-add your name to get a sticker
+Rupam Biswas.
+I am 1st year student.
